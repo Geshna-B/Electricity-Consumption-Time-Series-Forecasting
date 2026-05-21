@@ -1,0 +1,17 @@
+{
+  "best_model": "Ensemble (avg)",
+  "architecture": "126\u219264 (professor spec)",
+  "epochs": 20,
+  "batch": 32,
+  "seq": 168,
+  "transform": "sqrt",
+  "split": "blocked_monthly",
+  "metrics": {
+    "r2": 0.6774236559867859,
+    "rmse": 0.5147109165666724,
+    "mae": 0.34477585554122925,
+    "mape": 34.675662994384766,
+    "mape_a": 29.960325241088867,
+    "smape": 30.21914291381836
+  }
+}
